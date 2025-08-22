@@ -1,5 +1,5 @@
 # boot.dev
-<a href="https://www.boot.dev/u/su_haas" target="_blank" rel="noopener noreferrer">
+<a href="https://www.boot.dev/u/su_haas" target="_blank">
   boot.dev Profile 
 </a>
 
