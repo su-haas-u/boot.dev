@@ -1,7 +1,5 @@
 # boot.dev
 
-[boot.dev Profile](https://www.boot.dev/u/su_haas)
-
 <a href="https://www.boot.dev/u/su_haas" target="_blank">boot.dev Profile</a>
 
 <p align="center">
